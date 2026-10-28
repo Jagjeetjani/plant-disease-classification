@@ -1,0 +1,387 @@
+{
+    "Tomato___Early_blight": {
+        "crop": "Tomato",
+        "condition": "Early Blight",
+        "scientific_name": "Solanum lycopersicum",
+        "pathogen": "Alternaria solani (Fungus)",
+        "symptoms": "Dark brown to black necrotic spots with characteristic concentric target-board rings on older foliage, surrounded by chlorotic yellow halos.",
+        "favorable_conditions": "Warm temperatures (24-29\u00b0C) combined with high humidity, heavy dew, or overhead irrigation.",
+        "severity": "High (Yield loss up to 50-70% if unmanaged)",
+        "chemical_treatment": "Apply Chlorothalonil (0.2%), Mancozeb (0.25%), or Azoxystrobin at 7-10 day intervals upon first appearance.",
+        "organic_remedy": "Foliar application of Copper octanoate (copper soap) or Bacillus subtilis (Serenade). Weekly neem oil (0.5%) emulsion.",
+        "cultural_prevention": "Stake plants for air circulation, avoid overhead sprinkler watering, practice 3-year crop rotation with non-solanaceous crops, and mulch base.",
+        "visual_profile": {
+            "shape": "compound_serrated",
+            "base_color": [
+                34,
+                139,
+                34
+            ],
+            "lesion_color": [
+                50,
+                30,
+                20
+            ],
+            "lesion_style": "target_rings",
+            "chlorosis": true
+        }
+    },
+    "Tomato___Late_blight": {
+        "crop": "Tomato",
+        "condition": "Late Blight",
+        "scientific_name": "Solanum lycopersicum",
+        "pathogen": "Phytophthora infestans (Oomycete)",
+        "symptoms": "Rapidly expanding water-soaked dark olive to black lesions with pale green borders; white fuzzy sporulation under leaf surface in humid conditions.",
+        "favorable_conditions": "Cool, moist weather (15-22\u00b0C) with persistent leaf wetness and relative humidity >90%.",
+        "severity": "Critical (Total crop destruction possible within 7-14 days)",
+        "chemical_treatment": "Systemic fungicides: Metalaxyl + Mancozeb (Ridomil Gold 2g/L), Cymoxanil, or Dimethomorph.",
+        "organic_remedy": "Fixed copper fungicides (Bordeaux mixture 1%) applied protectively before rain events.",
+        "cultural_prevention": "Destroy infected volunteer plants, ensure wide row spacing, use certified disease-free transplants, and install drip irrigation.",
+        "visual_profile": {
+            "shape": "compound_serrated",
+            "base_color": [
+                46,
+                125,
+                50
+            ],
+            "lesion_color": [
+                25,
+                30,
+                25
+            ],
+            "lesion_style": "water_soaked",
+            "chlorosis": false
+        }
+    },
+    "Tomato___Yellow_Leaf_Curl_Virus": {
+        "crop": "Tomato",
+        "condition": "Yellow Leaf Curl Virus",
+        "scientific_name": "Solanum lycopersicum",
+        "pathogen": "Tomato Yellow Leaf Curl Begomovirus (TYLCV)",
+        "symptoms": "Severe upward leaf cupping, curling, interveinal chlorosis (yellowing), marked leaf reduction, and stunted bush growth with flower drop.",
+        "favorable_conditions": "Warm climates favoring high populations of the whitefly vector (Bemisia tabaci).",
+        "severity": "High (Causes near 100% loss if infection occurs before flowering)",
+        "chemical_treatment": "No direct cure for viral infection. Vector control: Imidacloprid (0.3ml/L), Thiamethoxam, or Acetamiprid to suppress whiteflies.",
+        "organic_remedy": "Yellow sticky traps (20-25 traps/acre), insecticidal potassium soap spray, and neem kernel extract (5%).",
+        "cultural_prevention": "Install 50-mesh insect-proof netting in greenhouses, remove infected plants immediately, and plant TYLCV-resistant varieties.",
+        "visual_profile": {
+            "shape": "compound_curled",
+            "base_color": [
+                154,
+                205,
+                50
+            ],
+            "lesion_color": [
+                220,
+                220,
+                80
+            ],
+            "lesion_style": "curled_yellow",
+            "chlorosis": true
+        }
+    },
+    "Tomato___healthy": {
+        "crop": "Tomato",
+        "condition": "Healthy Leaf",
+        "scientific_name": "Solanum lycopersicum",
+        "pathogen": "None (Pristine Plant State)",
+        "symptoms": "Uniform deep green coloration, well-defined venation, firm turgid foliage, and no necrotic lesions or chlorosis.",
+        "favorable_conditions": "Optimum sunlight (6-8 hours daily), balanced N-P-K (10-10-10) fertilization, and soil pH 6.2-6.8.",
+        "severity": "None (Healthy productive crop)",
+        "chemical_treatment": "No chemical intervention needed. Maintain routine agronomic monitoring.",
+        "organic_remedy": "Prophylactic compost tea and seaweed extract foliar spray for boosted plant immunity.",
+        "cultural_prevention": "Standard crop management, consistent watering, and regular scouting.",
+        "visual_profile": {
+            "shape": "compound_serrated",
+            "base_color": [
+                34,
+                139,
+                34
+            ],
+            "lesion_color": null,
+            "lesion_style": "none",
+            "chlorosis": false
+        }
+    },
+    "Potato___Early_blight": {
+        "crop": "Potato",
+        "condition": "Early Blight",
+        "scientific_name": "Solanum tuberosum",
+        "pathogen": "Alternaria solani (Fungus)",
+        "symptoms": "Brown, angular target-board lesions delimited by major veins, with yellow chlorotic halos on lower mature leaflets.",
+        "favorable_conditions": "Alternating wet and dry periods, warm temperatures (22-30\u00b0C), and stressed crop canopy.",
+        "severity": "Moderate to High (Premature defoliation and tuber size reduction)",
+        "chemical_treatment": "Mancozeb 75 WP (2g/L), Propineb, or Difenoconazole (0.5ml/L) at tuber initiation.",
+        "organic_remedy": "Copper hydroxide spray and Trichoderma viride biological antagonist soil application.",
+        "cultural_prevention": "Ensure adequate nitrogen and potassium fertility; avoid sprinkler irrigation late in the afternoon.",
+        "visual_profile": {
+            "shape": "oval_pinnate",
+            "base_color": [
+                46,
+                139,
+                87
+            ],
+            "lesion_color": [
+                45,
+                28,
+                15
+            ],
+            "lesion_style": "target_rings",
+            "chlorosis": true
+        }
+    },
+    "Potato___Late_blight": {
+        "crop": "Potato",
+        "condition": "Late Blight",
+        "scientific_name": "Solanum tuberosum",
+        "pathogen": "Phytophthora infestans (Oomycete)",
+        "symptoms": "Large, irregular water-soaked pale-to-dark brown spots near leaf margins, rapidly coalescing into black dead tissue with white mildew.",
+        "favorable_conditions": "Temperatures 10-20\u00b0C with relative humidity above 90% for prolonged intervals.",
+        "severity": "Devastating (Historical cause of the Great Irish Famine; rapid total loss)",
+        "chemical_treatment": "Preventative: Mancozeb (2.5g/L). Curative: Cymoxanil + Mancozeb (Curzate 2g/L) or Fenamidone.",
+        "organic_remedy": "Bordeaux mixture (1%) protective coverage; harvest haulm destruction before lifting tubers.",
+        "cultural_prevention": "Plant certified seed tubers, hill potatoes well to protect tubers, and eliminate cull piles.",
+        "visual_profile": {
+            "shape": "oval_pinnate",
+            "base_color": [
+                40,
+                110,
+                60
+            ],
+            "lesion_color": [
+                20,
+                25,
+                20
+            ],
+            "lesion_style": "water_soaked",
+            "chlorosis": false
+        }
+    },
+    "Potato___healthy": {
+        "crop": "Potato",
+        "condition": "Healthy Leaf",
+        "scientific_name": "Solanum tuberosum",
+        "pathogen": "None (Pristine Plant State)",
+        "symptoms": "Lush vibrant emerald leaflets, smooth margin texture, robust vein structural integrity, no spot deformities.",
+        "favorable_conditions": "Cool season conditions (15-20\u00b0C), deep loose well-drained loamy soil, balanced irrigation.",
+        "severity": "None (Optimal vegetative vigour)",
+        "chemical_treatment": "None required.",
+        "organic_remedy": "Soil beneficial mycorrhizal fungi application.",
+        "cultural_prevention": "Proper hilling, weed suppression, balanced nitrogen management.",
+        "visual_profile": {
+            "shape": "oval_pinnate",
+            "base_color": [
+                34,
+                139,
+                34
+            ],
+            "lesion_color": null,
+            "lesion_style": "none",
+            "chlorosis": false
+        }
+    },
+    "Corn_(maize)___Common_rust_": {
+        "crop": "Corn (Maize)",
+        "condition": "Common Rust",
+        "scientific_name": "Zea mays",
+        "pathogen": "Puccinia sorghi (Fungus)",
+        "symptoms": "Elongated golden-brown to cinnamon-brown pustules (uredinia) scattered abundantly on both upper and lower leaf surfaces; ruptures epidermis with powdery spores.",
+        "favorable_conditions": "Cool to moderate temperatures (16-25\u00b0C) and high relative humidity (>95%).",
+        "severity": "Moderate (Yield reduction of 10-25% in susceptible grain hybrids)",
+        "chemical_treatment": "Azoxystrobin + Difenoconazole (Amistar Top 1ml/L) or Pyraclostrobin at first tassel emergence.",
+        "organic_remedy": "Sulfur dusting (80% WP) or biological treatment with Ampelomyces quisqualis hyperparasite.",
+        "cultural_prevention": "Select rust-resistant hybrids (Rp single-gene resistance), early planting to escape late spore showers.",
+        "visual_profile": {
+            "shape": "elongated_blade",
+            "base_color": [
+                60,
+                140,
+                40
+            ],
+            "lesion_color": [
+                160,
+                80,
+                20
+            ],
+            "lesion_style": "rust_pustules",
+            "chlorosis": true
+        }
+    },
+    "Corn_(maize)___Northern_Leaf_Blight": {
+        "crop": "Corn (Maize)",
+        "condition": "Northern Leaf Blight",
+        "scientific_name": "Zea mays",
+        "pathogen": "Exserohilum turcicum (Fungus)",
+        "symptoms": "Long, elliptical cigar-shaped grayish-green to tan lesions (2.5-15 cm long) with distinctive tapered ends, parallel to leaf veins.",
+        "favorable_conditions": "Moderate temperatures (18-27\u00b0C) accompanied by extended periods of heavy dew.",
+        "severity": "High (Severe defoliation leading to grain fill failure and stalk rot)",
+        "chemical_treatment": "Propiconazole 25 EC (1ml/L), Mancozeb, or Pyraclostrobin applied at VT-R1 growth stages.",
+        "organic_remedy": "Bio-fungicide sprays containing Bacillus amyloliquefaciens and silicon-based foliar enhancers.",
+        "cultural_prevention": "Tillage to bury residue, 2-year crop rotation with soybeans, and deployment of Ht-gene resistant hybrids.",
+        "visual_profile": {
+            "shape": "elongated_blade",
+            "base_color": [
+                50,
+                130,
+                45
+            ],
+            "lesion_color": [
+                130,
+                110,
+                70
+            ],
+            "lesion_style": "cigar_lesions",
+            "chlorosis": false
+        }
+    },
+    "Corn_(maize)___healthy": {
+        "crop": "Corn (Maize)",
+        "condition": "Healthy Leaf",
+        "scientific_name": "Zea mays",
+        "pathogen": "None (Pristine Plant State)",
+        "symptoms": "Broad, elongated ribbon-like blade with prominent central whitish-green midrib; rich uniform chlorophyll density.",
+        "favorable_conditions": "Full sun, warm temperatures (21-32\u00b0C), consistent soil moisture during vegetative growth.",
+        "severity": "None (Optimal photosynthetic canopy)",
+        "chemical_treatment": "None required.",
+        "organic_remedy": "Foliar zinc and boron micronutrient supplementation.",
+        "cultural_prevention": "Optimal planting density (65,000-75,000 plants/ha) and weed canopy control.",
+        "visual_profile": {
+            "shape": "elongated_blade",
+            "base_color": [
+                40,
+                135,
+                40
+            ],
+            "lesion_color": null,
+            "lesion_style": "none",
+            "chlorosis": false
+        }
+    },
+    "Apple___Apple_scab": {
+        "crop": "Apple",
+        "condition": "Apple Scab",
+        "scientific_name": "Malus domestica",
+        "pathogen": "Venturia inaequalis (Fungus)",
+        "symptoms": "Olive-green to dull velvety black circular lesions with feathery margins; leaf tissue distorts, curls, and drops prematurely.",
+        "favorable_conditions": "Spring wetness periods (Mills infection table) with temperatures between 13-24\u00b0C.",
+        "severity": "High (Fruit deformities and up to 70% unmarketable crop)",
+        "chemical_treatment": "Captan 50 WP (2.5g/L), Difenoconazole, Myclobutanil, or Dodine timed around rain events.",
+        "organic_remedy": "Lime sulfur or wettable sulfur applied pre-bloom; potassium bicarbonate spray.",
+        "cultural_prevention": "Rake and shred fallen leaves in autumn to eliminate pseudothecia overwintering.",
+        "visual_profile": {
+            "shape": "ovate_serrate",
+            "base_color": [
+                50,
+                130,
+                60
+            ],
+            "lesion_color": [
+                40,
+                45,
+                30
+            ],
+            "lesion_style": "velvety_spots",
+            "chlorosis": true
+        }
+    },
+    "Apple___Black_rot": {
+        "crop": "Apple",
+        "condition": "Black Rot (Frog-Eye Leaf Spot)",
+        "scientific_name": "Malus domestica",
+        "pathogen": "Botryosphaeria obtusa (Fungus)",
+        "symptoms": "Small purple spots developing into 'frog-eye' lesions with tan centres and dark purple-brown concentric borders.",
+        "favorable_conditions": "Warm temperatures (26-28\u00b0C) following rainy periods during bloom and early petal fall.",
+        "severity": "Moderate to Severe (Branch cankers, leaf defoliation, and mummified black fruit)",
+        "chemical_treatment": "Thiophanate-methyl, Captan, or Strobilurin fungicides applied from pink bud stage.",
+        "organic_remedy": "Liquid copper applied at bud break; bio-protective Bacillus subtilis strains.",
+        "cultural_prevention": "Prune out dead wood, mummified fruits, and fire blight cankers which harbor spores.",
+        "visual_profile": {
+            "shape": "ovate_serrate",
+            "base_color": [
+                45,
+                120,
+                50
+            ],
+            "lesion_color": [
+                70,
+                30,
+                25
+            ],
+            "lesion_style": "frog_eye",
+            "chlorosis": true
+        }
+    },
+    "Apple___healthy": {
+        "crop": "Apple",
+        "condition": "Healthy Leaf",
+        "scientific_name": "Malus domestica",
+        "pathogen": "None (Pristine Plant State)",
+        "symptoms": "Glossy ovate foliage, finely serrated margin, vivid chlorophyll saturation without blemishes.",
+        "favorable_conditions": "Chilling requirement met in winter, 6-8 hrs full sunlight, well-aerated loam soil.",
+        "severity": "None (Healthy orchard canopy)",
+        "chemical_treatment": "None required.",
+        "organic_remedy": "Foliar kelp extract and calcium nitrate sprays for cell wall strengthening.",
+        "cultural_prevention": "Annual dormant pruning for sunlight penetration and canopy aeration.",
+        "visual_profile": {
+            "shape": "ovate_serrate",
+            "base_color": [
+                34,
+                139,
+                34
+            ],
+            "lesion_color": null,
+            "lesion_style": "none",
+            "chlorosis": false
+        }
+    },
+    "Pepper__bell___Bacterial_spot": {
+        "crop": "Bell Pepper",
+        "condition": "Bacterial Spot",
+        "scientific_name": "Capsicum annuum",
+        "pathogen": "Xanthomonas campestris pv. vesicatoria (Bacterium)",
+        "symptoms": "Small, water-soaked, angular blistering spots on leaf undersides, becoming dark brown with greasy texture and pale yellow halos.",
+        "favorable_conditions": "High temperatures (24-30\u00b0C) with frequent rainfall, overhead irrigation, and wind-driven rain.",
+        "severity": "High (Severe leaf drop exposes fruit to sunscald; significant yield collapse)",
+        "chemical_treatment": "Copper hydroxide (Kocide 2g/L) tank-mixed with Mancozeb (to combat copper-resistant bacterial strains).",
+        "organic_remedy": "Bacteriophage treatments (AgriPhage), Bacillus amyloliquefaciens, and potassium silicate.",
+        "cultural_prevention": "Use hot water treated seeds (50\u00b0C for 25 min), avoid working in wet foliage, and rotate away from solanaceous crops for 2 years.",
+        "visual_profile": {
+            "shape": "ovate_lanceolate",
+            "base_color": [
+                40,
+                130,
+                50
+            ],
+            "lesion_color": [
+                50,
+                40,
+                20
+            ],
+            "lesion_style": "bacterial_angular",
+            "chlorosis": true
+        }
+    },
+    "Pepper__bell___healthy": {
+        "crop": "Bell Pepper",
+        "condition": "Healthy Leaf",
+        "scientific_name": "Capsicum annuum",
+        "pathogen": "None (Pristine Plant State)",
+        "symptoms": "Smooth, lanceolate to ovate leaf blade with unbroken glossy cuticle, vibrant green color, strong petiolar connection.",
+        "favorable_conditions": "Warm growing season (21-28\u00b0C), steady drip moisture, magnesium and calcium supplemented soil.",
+        "severity": "None (Optimal vegetative vigour)",
+        "chemical_treatment": "None required.",
+        "organic_remedy": "Epsom salt (magnesium sulfate) foliar spray for enhanced chlorophyll synthesis.",
+        "cultural_prevention": "Plastic mulch, drip fertigation, and regular scouting.",
+        "visual_profile": {
+            "shape": "ovate_lanceolate",
+            "base_color": [
+                35,
+                135,
+                45
+            ],
+            "lesion_color": null,
+            "lesion_style": "none",
+            "chlorosis": false
+        }
+    }
+}
