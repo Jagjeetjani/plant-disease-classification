@@ -1,8 +1,10 @@
+[server]
+headless = true
+enableCORS = false
+enableXsrfProtection = false
+
 [browser]
 gatherUsageStats = false
-
-[server]
-headless = false
 
 [theme]
 primaryColor = "#10B981"
